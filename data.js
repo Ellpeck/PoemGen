@@ -8,10 +8,10 @@ const verses = [
         "I [adverb] started [verbing]",
         "And [personalPronoun] had seen me leaving",
         "My [thing], it went away",
-        "I [verbPast] still the light"
+        "I [verbPast] still the [thing]"
     ],
     [
-        "[personalPronoun] saw [objectPronoun] in the light",
+        "[personalPronoun] saw [objectPronoun] in the [ambiance]",
         "[personalPronoun] held [possessivePronoun] hands",
         "[personalPronoun] took my hand and [verbPast]"
     ],
